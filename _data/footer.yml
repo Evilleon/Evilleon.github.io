@@ -6,3 +6,11 @@ left_links:
   - name: 联系
     link: /contact/
 
+right_links:
+  - name: github
+    link: https://github.com/Evilleon
+    new_window: true
+  - name: 博客园
+    link: https://www.cnblogs.com/YXSZ
+    new_window: true
+
